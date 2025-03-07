@@ -1,0 +1,8 @@
+**/__pycache__
+**/.vscode
+**/.idea
+**.egg-info
+
+/keycloak_auth_plugin/help/build
+
+/.history
